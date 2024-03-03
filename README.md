@@ -1,6 +1,6 @@
-# Wordly Clone: A Fun and Challenging Word Game
+# Wordly: A Fun and Challenging Word Game
 
-This project is a Wordly clone, a captivating word-guessing game similar to the popular online sensation. It challenges players to decipher a five-letter word within six attempts. Each guess provides feedback in the form of colored tiles, guiding players towards the correct solution:
+This project is a Wordly, a captivating word-guessing game similar to the popular online sensation. It challenges players to decipher a five-letter word within six attempts. Each guess provides feedback in the form of colored tiles, guiding players towards the correct solution:
 
 * Green: The letter is in the **correct position**.
 * Yellow: The letter is in the **word** but in the **wrong position**.
